@@ -1,5 +1,5 @@
-### Welcome 
-## to **[A* Digital]** (https://astar.app)
-# Repository
+# Welcome 
+## to [A* Digital](http://astar.app)
+### Repository
 
 Hosted on GitHub
